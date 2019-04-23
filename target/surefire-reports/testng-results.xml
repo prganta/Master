@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="58" started-at="2019-02-27T00:58:44Z" finished-at="2019-02-27T00:58:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="58" started-at="2019-02-27T00:58:44Z" finished-at="2019-02-27T00:58:44Z">
+      <class name="MyProject.AppiumTest">
+        <test-method status="PASS" signature="MobileLogoff()[pri:0, instance:MyProject.AppiumTest@64616ca2]" name="MobileLogoff" duration-ms="1" started-at="2019-02-27T00:58:44Z" finished-at="2019-02-27T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLogoff -->
+        <test-method status="PASS" signature="MobileSite()[pri:0, instance:MyProject.AppiumTest@64616ca2]" name="MobileSite" duration-ms="3" started-at="2019-02-27T00:58:44Z" finished-at="2019-02-27T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileSite -->
+        <test-method status="PASS" signature="Mobilelogin()[pri:0, instance:MyProject.AppiumTest@64616ca2]" name="Mobilelogin" duration-ms="1" started-at="2019-02-27T00:58:44Z" finished-at="2019-02-27T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobilelogin -->
+      </class> <!-- MyProject.AppiumTest -->
+      <class name="MyProject.SeleniumTest">
+        <test-method status="PASS" signature="InteractbyCSS()[pri:0, instance:MyProject.SeleniumTest@5f2050f6]" name="InteractbyCSS" duration-ms="9" started-at="2019-02-27T00:58:44Z" finished-at="2019-02-27T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InteractbyCSS -->
+        <test-method status="PASS" signature="Logoff()[pri:0, instance:MyProject.SeleniumTest@5f2050f6]" name="Logoff" duration-ms="3" started-at="2019-02-27T00:58:44Z" finished-at="2019-02-27T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logoff -->
+        <test-method status="PASS" signature="login()[pri:0, instance:MyProject.SeleniumTest@5f2050f6]" name="login" duration-ms="0" started-at="2019-02-27T00:58:44Z" finished-at="2019-02-27T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- MyProject.SeleniumTest -->
+      <class name="MyProject.RestAPITest">
+        <test-method status="PASS" signature="RestfulService()[pri:0, instance:MyProject.RestAPITest@3b81a1bc]" name="RestfulService" duration-ms="0" started-at="2019-02-27T00:58:44Z" finished-at="2019-02-27T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestfulService -->
+        <test-method status="PASS" signature="hitservice()[pri:0, instance:MyProject.RestAPITest@3b81a1bc]" name="hitservice" duration-ms="0" started-at="2019-02-27T00:58:44Z" finished-at="2019-02-27T00:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hitservice -->
+      </class> <!-- MyProject.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
